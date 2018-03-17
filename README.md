@@ -1,7 +1,7 @@
 # Yet-Another-Platform-Game
 Gra platformowa 2D. Moja pierwsza gra stworzona na silniku Unity.
 
-##Opis
+## Opis
 
 Jest to platformówka 2D zrobiona na zajęcia laboratoryjne z Projektowania Gier Komputerowych. Gra zawiera 2 poziomy ( drugi z nich jest narazie nieskończony, ale został umieszczony w grze)
 
